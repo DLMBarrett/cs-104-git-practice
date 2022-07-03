@@ -18,5 +18,5 @@ void print_std_out_bottle_song(int num_beers) {
 int main() 
 {
   print_std_out_bottle_song(1'000'000);
-  std::cout << "FightOn!" << std::endl;
+  std::cout << "Go Bruins!!" << std::endl;
 }
